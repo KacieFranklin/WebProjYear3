@@ -4,7 +4,6 @@
 
 <footer>
     <div style="position:fixed;bottom:45px;background-color:#446;z-index:8">
-        <a href="https://svelte.dev/docs/kit">Svelte Documentation</a><br>
     </div>
     <p>2026 God Is Dead Project Website. All rights reserved</p>
 </footer>

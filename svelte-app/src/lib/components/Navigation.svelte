@@ -16,10 +16,12 @@
     nav ul {
         
         list-style: none;
-        padding:0;
+        background: fixed;
+        background-color: var(--primary-color);
+        padding:60px;
         margin:0;
         display: flex;
-        justify-content: center;
+        justify-content: right;
     }
 
     nav ul li {

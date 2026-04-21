@@ -4,7 +4,7 @@
 
 <header>
     <div class="logo">
-        <img src="Logo.png" alt="Website Logo">
+        <img src="favicon.svg" alt="Website Logo">
         <h1>God Is Dead</h1>
     </div> 
 </header>
@@ -13,9 +13,12 @@
     header {
         display: flex;
         align-items: center;
-        color: white;
+        color: var(--text-color);
+        background-color: var(--primary-color);
         position: absolute;
         bottom: 625px;
+        left:625px;
+        padding: 80px;
         z-index: 9;
         justify-content: space-between;
         padding: 1rem;

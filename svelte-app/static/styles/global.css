@@ -1,7 +1,7 @@
 :root {
 --primary-color: #071821;
---secondary-color: #306850;
---background-color: #68c06c;
+--secondary-color: #68c06c;
+--background-color: #306850;
 --text-color: #ffffff;
 
 --font-family: 'Inter', system-ui, sans-serif;
@@ -34,6 +34,7 @@ a {
 
 a:hover{
     text-decoration: underline;
+    color: var(--secondary-color);
 }
 
 .container{
@@ -42,3 +43,5 @@ a:hover{
     margin: 0 auto;
     padding: var(--spacing-medium);
 }
+
+

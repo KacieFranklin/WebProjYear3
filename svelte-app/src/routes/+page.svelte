@@ -1,3 +1,6 @@
+<svelte:head><title>Home</title></svelte:head>
+
+
 <script>
     import { onMount } from 'svelte';
 
@@ -7,11 +10,10 @@
 
 </script>
 
-
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<title>Home Page</title>
+<h1>Hi:</h1>
 
 
 <style>
-    
+
 </style>
