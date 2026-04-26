@@ -11,9 +11,24 @@
 </script>
 
 <title>Home Page</title>
-<h1>Hi:</h1>
 
+<div id="page-content">
+    <h1>Hi:</h1>
+
+    <div class="formButton">
+        <form action="https://altered-strains.itch.io/god-is-dead">
+    
+        
+                <button type="submit">Go To Itch.io Page</button>
+        
+
+        </form>
+    </div>
+
+</div>
 
 <style>
+
+  
 
 </style>

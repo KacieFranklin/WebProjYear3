@@ -5,7 +5,7 @@
     <nav>
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
+            <li><a href="/story">Story</a></li>
             <li><a href="/characters">Characters</a></li>
             <li><a href="/moves">Moves</a></li>
         </ul>
