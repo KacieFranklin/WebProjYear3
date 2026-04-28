@@ -85,9 +85,9 @@ div#page-content {
     text-decoration: underline;
 }
 
-.moves{
 
-    table{
+
+    .moves table{
         
         width: 50%;
         border-collapse: collapse;
@@ -97,57 +97,54 @@ div#page-content {
         margin-bottom: 20px;
     }
     
-    th, tr {
+    .moves th, tr {
         border: 1px solid #ddd;
         padding: 8px;
         text-align: left;
     }
     
-    th {
+    .moves th {
         background-color: var(--primary-color);
     }
 
-    tr:nth-child(even) {
+    .moves tr:nth-child(even) {
         background-color: #f9f9f9;
     }
 
-    tr:hover {
+    .moves tr:hover {
         background-color: #d6eeee;
     }
-}
 
-.moveset{
-
-    table{
+.moveset table{
         
-        width: 20%;
-        border-collapse: collapse;
-        padding-bottom: 50%;
-        margin-left: 55%;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        box-shadow: inset;
-    }
+    width: 20%;
+    border-collapse: collapse;
+    padding-bottom: 50%;
+    margin-left: 55%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: inset;
+}
     
-    th, tr {
+    .moveset th, tr {
         border: 1px solid #ddd;
         padding: 8px;
         text-align: left;
     }
     
-    th {
+    .moveset th {
         background-color: var(--primary-color);
     }
 
-    tr:nth-child(even) {
+    .moveset tr:nth-child(even) {
         background-color: #f9f9f9;
     }
 
-    tr:hover {
+    .moveset tr:hover {
         background-color: #d6eeee;
     }
 
-}
+
 
 .img-content{
         position: absolute;
