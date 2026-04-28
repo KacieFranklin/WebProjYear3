@@ -1,5 +1,7 @@
 <title>Story</title>
 
+<script>
+</script>
 
 
 <div id="page-content">

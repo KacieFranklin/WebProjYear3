@@ -1,3 +1,7 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
 <title>Characters</title>
 
 <h1>Characters</h1>
@@ -6,43 +10,43 @@
 
 <div id="img-content">
 
-    <img src="sightless.png" alt="Man with eyes reomved and placed on hands, inside coloseum." width="300" height="300">
+    <img src="{base}/sightless.png" alt="Man with eyes reomved and placed on hands, inside coloseum." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="speechless.png" alt="Man with sewed up mouth with open gash full of teeth on neck, inside a coloseum" width="300" height="300">
+    <img src="{base}/speechless.png" alt="Man with sewed up mouth with open gash full of teeth on neck, inside a coloseum" width="300" height="300">
     <br> 
     <br>
     <br>
-    <img src="soundless.png" alt="Man with back turned to the screen, looking over his shoulder, holes all over his body, inside a coloseum" width="300" height="300">
+    <img src="{base}/soundless.png" alt="Man with back turned to the screen, looking over his shoulder, holes all over his body, inside a coloseum" width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="infected.png" alt="Plague doctor with boils all over in a coloseum." width="300" height="300">
+    <img src="{base}/infected.png" alt="Plague doctor with boils all over in a coloseum." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="cursed.png" alt="An entity with no eyes or mouth, holding open a cloak full of eyes, in a coloseum." width="300" height="300">
+    <img src="{base}/cursed.png" alt="An entity with no eyes or mouth, holding open a cloak full of eyes, in a coloseum." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="Beytrayed.png" alt="A man with an exposed brain and missing an arm in a coloseum.." width="300" height="300">
+    <img src="{base}/Beytrayed.png" alt="A man with an exposed brain and missing an arm in a coloseum.." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="soulless.png" alt="A man with a blacked out face, hand and wound on his chest, his body had been replaced with machinery with skin sewn back on, in a coloseum." width="300" height="300">
+    <img src="{base}/soulless.png" alt="A man with a blacked out face, hand and wound on his chest, his body had been replaced with machinery with skin sewn back on, in a coloseum." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="forsaken.png" alt="A man with an elongated neck with black cords around it and his head covered up in a coloseum." width="300" height="300">
+    <img src="{base}/forsaken.png" alt="A man with an elongated neck with black cords around it and his head covered up in a coloseum." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="trickster.png" alt="A entity with a mask on its head, it has beams comming out of its torso with nails attatched, in a coloseum." width="300" height="300">
+    <img src="{base}/trickster.png" alt="A entity with a mask on its head, it has beams comming out of its torso with nails attatched, in a coloseum." width="300" height="300">
     <br>
     <br>
     <br>
-    <img src="falseAngel.png" alt="A human figure with wings coming out of its head, covering its eyes, its hands in prayer, in a coloseum." width="300" height="300">
+    <img src="{base}/falseAngel.png" alt="A human figure with wings coming out of its head, covering its eyes, its hands in prayer, in a coloseum." width="300" height="300">
     <br>
     <br>
     <br>

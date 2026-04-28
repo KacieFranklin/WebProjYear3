@@ -8,6 +8,8 @@
         console.log("Home Page Loaded");
     });
 
+    import { base } from '$app/paths';
+
 </script>
 
 <title>Home Page</title>
@@ -18,7 +20,7 @@
         <br>
         <br>
 
-        <img src="TitleScreens.png" alt="A game start screen with a skull in the middle and eyes surrounding it, the text press start at the bottom of it." width="300" height="300">
+        <img src="{base}/TitleScreens.png" alt="A game start screen with a skull in the middle and eyes surrounding it, the text press start at the bottom of it." width="300" height="300">
 
         <p>God Is Dead is a roguelike, turn-based combat, boss rush game.</p>
         <p>You must fight ten creations of a fallen god to claim the throne as the new god.</p>
