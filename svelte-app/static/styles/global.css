@@ -27,7 +27,7 @@ body {
     
     font-size: var(--base-font-size);
     color:var(--text-color);
-    background-color: var(--background-color);
+    background-color: var(--primary-color);
     line-height: 1.5;
 }
 
@@ -42,11 +42,11 @@ a {
 
 a :hover{
     text-decoration: underline;
-    color: var(--secondary-color);
+    color: var(--primary-color);
 }
 
 nav a :hover {
-    color: var(--secondary-color);
+    color: var(--primary-color);
     text-decoration: underline;
 }
 
@@ -77,6 +77,11 @@ div#page-content {
     border-radius: 4px; /* Rounded corners */
     cursor: pointer; /* Pointer on hover */
     transition-duration: 0.3s; /* Smooth hover effect */
+}
+
+.formButton [type=submit]:hover{
+    background-color: var(--background-color);
+    text-decoration: underline;
 }
 
 

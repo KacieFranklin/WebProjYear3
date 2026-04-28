@@ -1,8 +1,12 @@
 <title>Moves</title>
 
-<h1>Moves</h1>
+
 
 <div id="page-content">
+
+    <h1>Moves</h1>
+
+    <br>
 
     <h2>Attacks</h2>
 
@@ -139,6 +143,8 @@
 <br>
 
 <style>
+
+
     table{
         
         width: 50%;

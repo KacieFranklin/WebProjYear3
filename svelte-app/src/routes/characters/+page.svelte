@@ -2,6 +2,8 @@
 
 <h1>Characters</h1>
 
+<br>
+
 <div id="img-content">
 
     <img src="sightless.png" alt="Man with eyes reomved and placed on hands, inside coloseum." width="300" height="300">
@@ -13,9 +15,37 @@
     <br>
     <br>
     <img src="soundless.png" alt="Man with back turned to the screen, looking over his shoulder, holes all over his body, inside a coloseum" width="300" height="300">
-
-
-
+    <br>
+    <br>
+    <br>
+    <img src="infected.png" alt="Plague doctor with boils all over in a coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="cursed.png" alt="An entity with no eyes or mouth, holding open a cloak full of eyes, in a coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="Beytrayed.png" alt="A man with an exposed brain and missing an arm in a coloseum.." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="soulless.png" alt="A man with a blacked out face, hand and wound on his chest, his body had been replaced with machinery with skin sewn back on, in a coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="forsaken.png" alt="A man with an elongated neck with black cords around it and his head covered up in a coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="trickster.png" alt="A entity with a mask on its head, it has beams comming out of its torso with nails attatched, in a coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="falseAngel.png" alt="A human figure with wings coming out of its head, covering its eyes, its hands in prayer, in a coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
 
 </div>
 <h2>The Sightless</h2>
@@ -39,6 +69,7 @@
             
 </table>
 
+<br>
 <br>
 <br>
 <br>
@@ -73,6 +104,7 @@
 <br>
 <br>
 <br>
+<br>
 
     <h2>The Soundless</h2>
         <table>
@@ -95,6 +127,7 @@
             
 </table>
 
+<br>
 <br>
 <br>
 <br>
@@ -127,6 +160,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <h2>The Cursed</h2>
         <table>
@@ -149,6 +183,7 @@
             
 </table>
 
+<br>
 <br>
 <br>
 <br>
@@ -181,6 +216,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <h2>The Soulless</h2>
         <table>
@@ -203,6 +239,7 @@
             
 </table>
 
+<br>
 <br>
 <br>
 <br>
@@ -235,6 +272,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <h2>The Trickster</h2>
         <table>
@@ -257,6 +295,9 @@
             
 </table>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -293,7 +334,7 @@
 <style>
     
     h1{
-        margin-left: 5%;
+        text-align: center;
     }
 
     h2{

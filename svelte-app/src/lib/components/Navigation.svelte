@@ -17,7 +17,7 @@
         
         list-style: none;
         background: fixed;
-        background-color: var(--primary-color);
+        background-color: var(--background-color);
         padding:60px;
         margin:0;
         display: flex;
@@ -30,7 +30,7 @@
 
     nav ul li :hover {
         text-decoration: underline;
-        color: var(--secondary-color);
+        color: var(--primary-color);
         font-weight: bold;
     }
 

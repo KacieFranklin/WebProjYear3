@@ -10,7 +10,7 @@
 
 <style>
     footer{
-    background-color: var(--primary-color);
+    background-color: var(--background-color);
     color: var(--text-color);
     text-align: center;
     height: 45px;
