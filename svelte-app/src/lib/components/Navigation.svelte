@@ -1,5 +1,5 @@
 <script>
-
+  
 </script>
 
     <nav>
@@ -28,9 +28,10 @@
         margin: 0 15px;
     }
 
-    nav ul li a {
-        text-decoration: none;
-        color: white;
+    nav ul li :hover {
+        text-decoration: underline;
+        color: var(--secondary-color);
         font-weight: bold;
     }
+
 </style>

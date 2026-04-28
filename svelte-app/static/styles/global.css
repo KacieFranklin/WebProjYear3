@@ -5,7 +5,13 @@
 --text-color: #ffffff;
 
 --font-family: 'Inter', system-ui, sans-serif;
---base-font-size: 16px;
+--base-font-size: 20px;
+}
+
+.jersey-15-regular {
+  font-family: "Jersey 15", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 *{
@@ -16,7 +22,9 @@
 
 body {
 
-    font-family: var(--font-family);
+    font-family: 'Jersey 15', system-ui;
+
+    
     font-size: var(--base-font-size);
     color:var(--text-color);
     background-color: var(--background-color);
@@ -28,13 +36,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: var(--background-color);
+    color: var(--text-color);
     text-decoration: none;
 }
 
-a:hover{
+a :hover{
     text-decoration: underline;
     color: var(--secondary-color);
+}
+
+nav a :hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
 }
 
 .container{
@@ -50,6 +63,7 @@ div#page-content {
     text-align: center;
     z-index:2;
 }
+
 
 .formButton [type=submit]{
     background-color: var(--secondary-color); /* Green background */

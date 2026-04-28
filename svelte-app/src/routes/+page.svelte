@@ -11,8 +11,9 @@
 </script>
 
 <title>Home Page</title>
+<body>
 
-<div id="page-content">
+    <div id="page-content">
     <h1>Hi:</h1>
 
     <div class="formButton">
@@ -26,9 +27,14 @@
     </div>
 
 </div>
+</body>
+
+
 
 <style>
 
+    body {
+  font-family: 'Jersey 15', system-ui;
+}
   
-
 </style>

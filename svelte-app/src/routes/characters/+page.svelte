@@ -2,8 +2,337 @@
 
 <h1>Characters</h1>
 
-<div id="page-content">
+<div id="img-content">
 
-    
+    <img src="sightless.png" alt="Man with eyes reomved and placed on hands, inside coloseum." width="300" height="300">
+    <br>
+    <br>
+    <br>
+    <img src="speechless.png" alt="Man with sewed up mouth with open gash full of teeth on neck, inside a coloseum" width="300" height="300">
+    <br> 
+    <br>
+    <br>
+    <img src="soundless.png" alt="Man with back turned to the screen, looking over his shoulder, holes all over his body, inside a coloseum" width="300" height="300">
+
+
+
 
 </div>
+<h2>The Sightless</h2>
+<table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Easy</th>
+                    <th>Blind Swing</th>
+                    <th>Brainwash</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Speechless</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Easy</th>
+                    <th>Devour <br>
+                        Brutal Punch
+                    </th>
+                    <th>None</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+    <h2>The Soundless</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Easy</th>
+                    <th>Swift kick</th>
+                    <th>Parasitic Body</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Infected</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Medium</th>
+                    <th>Cleave</th>
+                    <th>Plague</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Cursed</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Medium</th>
+                    <th>Gouge</th>
+                    <th>Corruption</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Betrayed</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Medium</th>
+                    <th>Swift Kick</th>
+                    <th>Mislead</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Soulless</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Hard</th>
+                    <th>Gouge</th>
+                    <th>Cacophony</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Forsaken</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Hard</th>
+                    <th>Strangle</th>
+                    <th>Devotion</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The Trickster</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Hard</th>
+                    <th>Trickery</th>
+                    <th>None</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>The False Angel</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Bracket</th>
+                    <th>Attacks</th>
+                    <th>Curses</th>
+                </tr>
+            </thead>
+    
+            
+            <tbody>
+                <tr>
+                    <th>Hard</th>
+                    <th>Holy Mutilation</th>
+                    <th>Divine Judgement <br> Sanctuary</th>
+                </tr>
+            </tbody>
+            
+</table>
+
+
+
+<br><br>
+<br>
+<br>
+
+<style>
+    
+    h1{
+        margin-left: 5%;
+    }
+
+    h2{
+        margin-left: 55%;
+    }
+
+    #img-content{
+        position: absolute;
+        right: 50%;
+        padding-bottom: 20px;
+    }
+
+    table{
+        
+        width: 20%;
+        border-collapse: collapse;
+        padding-bottom: 50%;
+        margin-left: 55%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        box-shadow: inset;
+    }
+    
+    th, tr {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    
+    th {
+        background-color: var(--primary-color);
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #d6eeee;
+    }
+    
+</style>

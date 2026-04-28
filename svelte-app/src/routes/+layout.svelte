@@ -17,3 +17,16 @@
 <Footer />
 
 {@render children()}
+
+<style>
+
+
+	/* piedra-latin-400-normal 
+@font-face {
+  font-family: 'Piedra';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url($lib/font/piedra-latin-400-normal.ttf), format(true)
+} */
+</style>
