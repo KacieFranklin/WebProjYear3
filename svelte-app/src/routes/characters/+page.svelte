@@ -8,7 +8,7 @@
 
 <br>
 
-<div id="img-content">
+<div class="img-content">
 
     <img src="{base}/sightless.png" alt="Man with eyes reomved and placed on hands, inside coloseum." width="300" height="300">
     <br>
@@ -53,7 +53,7 @@
 
 </div>
 <h2>The Sightless</h2>
-<table>
+<table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -81,7 +81,7 @@
 <br>
 
 <h2>The Speechless</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -111,7 +111,7 @@
 <br>
 
     <h2>The Soundless</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -139,7 +139,7 @@
 <br>
 
 <h2>The Infected</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -167,7 +167,7 @@
 <br>
 
 <h2>The Cursed</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -195,7 +195,7 @@
 <br>
 
 <h2>The Betrayed</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -223,7 +223,7 @@
 <br>
 
 <h2>The Soulless</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -251,7 +251,7 @@
 <br>
 
 <h2>The Forsaken</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -279,7 +279,7 @@
 <br>
 
 <h2>The Trickster</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -309,7 +309,7 @@
 <br>
 
 <h2>The False Angel</h2>
-        <table>
+        <table class="moveset">
             <thead>
                 <tr>
                     <th>Bracket</th>
@@ -336,48 +336,5 @@
 <br>
 
 <style>
-    
-    h1{
-        text-align: center;
-    }
-
-    h2{
-        margin-left: 55%;
-    }
-
-    #img-content{
-        position: absolute;
-        right: 50%;
-        padding-bottom: 20px;
-    }
-
-    table{
-        
-        width: 20%;
-        border-collapse: collapse;
-        padding-bottom: 50%;
-        margin-left: 55%;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        box-shadow: inset;
-    }
-    
-    th, tr {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-    }
-    
-    th {
-        background-color: var(--primary-color);
-    }
-
-    tr:nth-child(even) {
-        background-color: #f9f9f9;
-    }
-
-    tr:hover {
-        background-color: #d6eeee;
-    }
     
 </style>

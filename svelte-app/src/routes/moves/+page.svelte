@@ -10,7 +10,7 @@
 
     <h2>Attacks</h2>
 
-        <table>
+        <table class="moves">
             <thead>
                 <tr>
                     <th>Name</th>
@@ -61,7 +61,7 @@
         </table>
 
     <h2>Curses</h2>
-        <table>
+        <table class="moves">
             <thead>
                 <tr>
                     <th>Name</th>
@@ -111,7 +111,7 @@
         </table>
 
     <h2>Worships</h2>
-        <table>
+        <table class="moves">
             <thead>
                 <tr>
                     <th>Name</th>
@@ -145,32 +145,6 @@
 <style>
 
 
-    table{
-        
-        width: 50%;
-        border-collapse: collapse;
-        padding-bottom: 50%;
-        margin-left: 380px;
-        margin-top: 20px;
-        margin-bottom: 20px;
-    }
     
-    th, tr {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-    }
-    
-    th {
-        background-color: var(--primary-color);
-    }
-
-    tr:nth-child(even) {
-        background-color: #f9f9f9;
-    }
-
-    tr:hover {
-        background-color: #d6eeee;
-    }
     
 </style>

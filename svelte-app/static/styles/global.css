@@ -33,6 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
+    text-align: center;
 }
 
 a {
@@ -83,5 +84,75 @@ div#page-content {
     background-color: var(--background-color);
     text-decoration: underline;
 }
+
+.moves{
+
+    table{
+        
+        width: 50%;
+        border-collapse: collapse;
+        padding-bottom: 50%;
+        margin-left: 380px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    th, tr {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    
+    th {
+        background-color: var(--primary-color);
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #d6eeee;
+    }
+}
+
+.moveset{
+
+    table{
+        
+        width: 20%;
+        border-collapse: collapse;
+        padding-bottom: 50%;
+        margin-left: 55%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        box-shadow: inset;
+    }
+    
+    th, tr {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    
+    th {
+        background-color: var(--primary-color);
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #d6eeee;
+    }
+
+}
+
+.img-content{
+        position: absolute;
+        right: 50%;
+        padding-bottom: 20px;
+    }
 
 

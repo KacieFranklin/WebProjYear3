@@ -3,8 +3,6 @@
 </script>
 
 <footer>
-    <div style="position:fixed;bottom:45px;background-color:#446;z-index:8">
-    </div>
     <p>2026 God Is Dead Project Website. All rights reserved</p>
 </footer>
 

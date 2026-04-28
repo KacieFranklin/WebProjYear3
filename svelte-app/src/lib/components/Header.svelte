@@ -3,9 +3,9 @@
 </script>
 
 <header>
-    <div class="logo">
-        <h1>God Is Dead</h1>
-    </div> 
+    
+    <h1>God Is Dead</h1>
+     
 </header>
 
 <style>
